@@ -1,6 +1,6 @@
-# FES Final Project
+# Davion’s E-Portfolio
 
-## Front End Simplified Final Project
+## Front End Simplified E-Portfolio
 
 This project is my final project for the Front End Simplified course.
 
