@@ -1,33 +1,57 @@
-# Davion’s E-Portfolio
+# Davion's E-Portfolio
 
-## Front End Simplified E-Portfolio
+## Front-End Simplified Final Project
 
-This project is my final project for the Front End Simplified course.
+Welcome to my professional e-portfolio. This website was created as my final project for the Front End Simplified course and demonstrates my knowledge of HTML, CSS, responsive web design, and GitHub.
 
-### Technologies Used
+## About the Project
 
-- HTML
-- CSS
+This portfolio showcases my educational background, military and aviation experience, technical skills, projects, and professional goals.
+
+The website was designed with a clean, modern interface and responsive layout so that it can be viewed on desktop, tablet, and mobile devices.
+
+## Technologies Used
+
+- HTML5
+- CSS3
 - Responsive Web Design
+- Git
+- GitHub
+- GitHub Pages
 
-### Project Features
+## Website Features
 
 - Responsive navigation
+- Mobile-friendly layout
 - Modern user interface
-- Portfolio sections
+- Hero/landing section
+- About Me section
+- Military and aviation experience section
+- Education and training section
+- Technical and professional skills section
 - Project showcase
-- Resume section
 - Contact section
 - Responsive design for different screen sizes
+- Accessibility-focused navigation and controls
+- Smooth scrolling
+- Reduced-motion support
 
-### Assets
+## Responsive Design
 
-The project includes images, icons, and other assets used throughout the website.
+The website includes responsive CSS media queries that adjust the layout for:
 
-### Author
+- Desktop computers
+- Tablets
+- Mobile phones
+- Small-screen devices
 
-Davion Knight
+The navigation, cards, typography, buttons, spacing, and project sections automatically adjust to different screen sizes.
 
-### Project
+## Project Structure
 
-Front End Simplified Final Project
+```text
+-Fes-Final-Project/
+│
+├── index.html
+├── styles.css
+└── README.md
